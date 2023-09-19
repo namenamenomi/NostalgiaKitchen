@@ -1,0 +1,64 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Philip Edwards;; ;
+FN: Philip Edwards
+ORG:Nostalgia Kitchen + Cocktails
+COMPANY:Nostalgia Kitchen + Cocktails
+TITLE:
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:
+TEL;CELL;TYPE=Mobile,VOICE:4704567676
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:4042281214 
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Info@nostalgiarestaurants.com
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:https://maps.app.goo.gl/Xu97zoDCP2B5kMyn6
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100106459
+URL;TYPE=Website:http://www.nostalgiarestaurants.com/
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:
+
+
+
+
+PHOTO;ENCODING=b:{
+  "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/createAvatar/Philip%20Edwards/</pre>\n</body>\n</html>\n",
+  "status": 404,
+  "statusText": "",
+  "headers": {
+    "content-length": "173",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "config": {
+    "url": "https://pay4zip.com/api/createAvatar/Philip Edwards/",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "withCredentials": true,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1
+  },
+  "request": {}
+}
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
